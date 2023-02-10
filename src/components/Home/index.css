@@ -1,0 +1,127 @@
+.home-section-bg-container {
+    padding: 60px;
+    background-color: antiquewhite;
+    background-size: cover;
+    height: 100vh;
+}
+
+.home-header-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.home-card-header {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 30px;
+    color: #46992c;
+}
+
+.home-logout-button {
+    background-color: #f33636;
+    color: aquamarine;
+    font-family: "Roboto";
+    font-size: 15px;
+    border: 0px;
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+}
+
+.home-section-detais-card {
+    background-color: #b3f9f9;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.introduction-header {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 30px;
+    color: #09a7eb;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.introduction-description {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 15px;
+    color: #5b727c;
+    padding-top: 0px;
+    font-style: italic;
+}
+
+.claculations-container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.claculations-header {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 25px;
+    color: #eb09ab;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.calculation-item {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: #535c5f;
+    margin-bottom: 10px;
+}
+
+.recently-posted-header {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 25px;
+    color: #eb09ab;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.recently-posted-claculation {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: #535c5f;
+    margin-bottom: 10px;
+}
+
+.home-input-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.home-user-input {
+    color: #222222;
+    width: 50%;
+    height: 25px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    border: 1px solid red;
+}
+
+.ask-student-button {
+    background-color: #d7e94c;
+    color: #464f48;
+    font-family: "Roboto";
+    font-size: 12px;
+    border: 0px;
+    height: 30px;
+    width: 200px;
+    border-radius: 10px;
+    margin-left: 50px;
+    cursor: pointer;
+}
